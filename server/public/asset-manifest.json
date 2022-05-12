@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d1e0751a.css",
+    "main.js": "/static/js/main.5f809a46.js",
+    "static/js/787.cfd8f164.chunk.js": "/static/js/787.cfd8f164.chunk.js",
+    "static/media/Alu_students.jpg": "/static/media/Alu_students.8f28ca58a64a66b3979d.jpg",
+    "static/media/redditChar.jpg": "/static/media/redditChar.d6d5285f8c305156bef7.jpg",
+    "static/media/Alu_logo.png": "/static/media/Alu_logo.fdb4627a7482e332f6ff.png",
+    "static/media/tempAd.jpg": "/static/media/tempAd.977be90bed50df37d1ae.jpg",
+    "static/media/leadit.png": "/static/media/leadit.84f25ea9d6021d175162.png",
+    "static/media/overlay.jpg": "/static/media/overlay.f1435fca3fd2ba8348a3.jpg",
+    "static/media/rl2.png": "/static/media/rl2.dad9849512ec03972fdd.png",
+    "static/media/Graduate.webp": "/static/media/Graduate.3748b0ca40ede22e26ac.webp",
+    "static/media/tempAd2.jpg": "/static/media/tempAd2.5ca2a3edeea6d68b455a.jpg",
+    "index.html": "/index.html",
+    "main.d1e0751a.css.map": "/static/css/main.d1e0751a.css.map",
+    "main.5f809a46.js.map": "/static/js/main.5f809a46.js.map",
+    "787.cfd8f164.chunk.js.map": "/static/js/787.cfd8f164.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1e0751a.css",
+    "static/js/main.5f809a46.js"
+  ]
+}

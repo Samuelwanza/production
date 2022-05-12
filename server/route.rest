@@ -1,0 +1,19 @@
+###
+GET http://localhost:4000/posts
+
+###
+POST http://localhost:4000/login
+Content-Type: application/json
+
+{"username":"assassin","password":"kranko"}
+
+###
+POST http://localhost:4000/register
+Content-Type: application/json
+
+{"username":"eva","password":"duku"}
+
+
+
+###
+GET https://www.facebook.com
